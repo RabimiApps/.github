@@ -16,7 +16,7 @@ An **Android app that allows you to change Minecraft Java Edition skins**.
 Designed for PojavLauncher users and players who want to play Java Edition without a PC.
 
 - 📱 Language: Kotlin  
-- ⚙️ Build: Gradle 8.x  
+- ⚙️ Build: Gradle 8.7  
 - 🔄 Auto Build & Release: GitHub Actions  
 - 🧾 License: Apache-2.0  
 
@@ -30,10 +30,10 @@ Lightweight and fully functional on mobile devices, it forms the core of RabimiA
 
 ## 🛠 Technology Stack
 
-- **Languages:** Kotlin / Java / Shell  
-- **Development Environment:** Android Studio, AIDE, Termux  
+- **Languages:** Kotlin
+- **Development Environment:** Github Android, VSCode, Github for Web, Termux  
 - **CI/CD:** GitHub Actions (Auto-build, signing, release)  
-- **Target OS:** Android (primary), some tools also support Windows/Linux  
+- **Target OS:** Android (primary), some tools also support Windows  
 
 ---
 
@@ -65,7 +65,7 @@ especially for Minecraft Java Edition and server-related tools.
 
 # 🌟 RabimiApps
 
-**RabimiApps（ラビミアップス）** は、ラビミ（Rabimi）による個人開発ブランドです。  
+**RabimiApps** は、ラビミによる個人開発ブランドです。  
 主に **Android向けアプリ** や **Minecraft関連ツール** を中心に開発しています。  
 スマホでもMinecraft Javaやサーバーを自由に扱える世界を目指し、日々開発を続けています。
 
@@ -78,7 +78,7 @@ Androidから **Minecraft Java版のスキンを変更できる** アプリ。
 PojavLauncherユーザーや、PCを使わずにJava版を遊ぶプレイヤー向けに設計されています。
 
 - 📱 言語: Kotlin  
-- ⚙️ ビルド: Gradle 8.x  
+- ⚙️ ビルド: Gradle 8.7
 - 🔄 自動ビルド・リリース: GitHub Actions  
 - 🧾 ライセンス: Apache-2.0  
 
@@ -92,10 +92,10 @@ PojavLauncherユーザーや、PCを使わずにJava版を遊ぶプレイヤー�
 
 ## 🛠 技術スタック
 
-- **主要言語:** Kotlin / Java / Shell  
-- **開発環境:** Android Studio, AIDE, Termux  
+- **主要言語:** Kotlin  
+- **開発環境:** GitHub Android, VSCode, Github for Web, Termux  
 - **CI/CD:** GitHub Actions（自動ビルド・署名・リリース）  
-- **対象OS:** Android（メイン）, 一部ツールはWindows/Linux対応  
+- **対象OS:** Android（メイン）, 一部ツールはWindows対応
 
 ---
 
